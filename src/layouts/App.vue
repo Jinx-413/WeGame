@@ -19,5 +19,9 @@ export default {
 </script>
 
 <style>
-
+  #app{
+    display: flex;
+    flex-flow:column;
+    height:100%;
+  }
 </style>

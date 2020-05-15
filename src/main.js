@@ -13,6 +13,9 @@ Vue.prototype.$baseUrl = server.baseUrl;//把服务器基础地址，作为实�
 //引进vuerouter
 import router from './plugins/router.js'
 
+//引入icon
+import './assets/icon/iconfont.css'
+
 //引入axios配置
 // import './plugins/axios.js'
 
